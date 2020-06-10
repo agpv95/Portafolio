@@ -1,16 +1,20 @@
 body {
-  background-color: DodgerBlue;
-    
+  background-color:  url('Images/Beltline.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
 }
 
 h1{
-   margin-left: 100px;  
+    color: whitesmoke
 }
 
 h2 {
-   
+   color: white;
   margin-left: 100px; 
 }
+
+
 
 <body>
 
