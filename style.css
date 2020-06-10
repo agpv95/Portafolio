@@ -1,6 +1,5 @@
 body {
-<<<<<<< HEAD
-  background-image: url('Images/Beltline.jpg');
+  background-image:  url('Images/Beltline.jpg');
     background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
@@ -15,14 +14,7 @@ h2 {
   margin-left: 100px; 
 }
 
+
+
 <body>
 
-=======
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
->>>>>>> 51498b4c8574c5549f94fa1e0bbdffde9256083e
