@@ -1,12 +1,12 @@
 body {
-  background-image: url('agpv95.github.io/Images/Beltline.jpg');
+  background-image: url('Images/Beltline.jpg');
     background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
 }
 
 h1{
-    color: whitesmoke
+    color: blu;
 }
 
 h2 {
